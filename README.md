@@ -1,2 +1,2 @@
 # katziberts-petradar
-Jäger Addon
+Jäger-Pet-Enzyklopädie
